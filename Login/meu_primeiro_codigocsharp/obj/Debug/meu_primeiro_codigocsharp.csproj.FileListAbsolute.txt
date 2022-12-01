@@ -1,0 +1,8 @@
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\bin\Debug\meu_primeiro_codigocsharp.exe.config
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\bin\Debug\meu_primeiro_codigocsharp.exe
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\bin\Debug\meu_primeiro_codigocsharp.pdb
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\obj\Debug\meu_primeiro_codigocsharp.csproj.AssemblyReference.cache
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\obj\Debug\meu_primeiro_codigocsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\obj\Debug\meu_primeiro_codigocsharp.csproj.CoreCompileInputs.cache
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\obj\Debug\meu_primeiro_codigocsharp.exe
+C:\Users\Denilson\Documents\Curso C#\aula01\meu_primeiro_codigocsharp\meu_primeiro_codigocsharp\obj\Debug\meu_primeiro_codigocsharp.pdb
